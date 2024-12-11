@@ -10,7 +10,8 @@ Welcome to my GitHub! I'm a passionate developer who is constantly learning and 
 - **JavaScript**  
 
 ### 🌐 Frontend Development  
-- **React.js**  
+- **React.js**
+- **Next.js**  
 - **Tailwind CSS**  
 
 ### 🔧 Tools & Frameworks  
