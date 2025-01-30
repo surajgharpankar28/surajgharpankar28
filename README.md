@@ -19,38 +19,38 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" pointer-events: none; />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" pointer-events: none;/>
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" pointer-events: none;/>
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" pointer-events: none;/>
       <br>Tailwind
     </td>
     
   </tr>
   <tr>
   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" pointer-events: none;/>
       <br>BootStrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" pointer-events: none; />
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" pointer-events: none; />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" />
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" pointer-events: none;/>
       <br>SQL
     </td>
     
