@@ -1,93 +1,132 @@
-<!-- Animated Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=435&lines=👋+Hi,+I'm+Suraj!;🚀+React+Developer;🧠+AI+Enthusiast;💻+Open+Source+Contributor" alt="Typing SVG" />
-</div>
-<div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=eba834&center=true&vCenter=true&width=435&lines=Currently working @ Infosys; Building Personal Project's; Mastering React; " alt="Typing SVG" />
- </div>
 
+# 👋 Hi, I'm Suraj Gharpankar
 
-<!-- GitHub Stats & Graphs Section -->
-<div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajgharpankar28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgharpankar28&layout=compact&langs_count=8&theme=radical"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgharpankar28&theme=react-dark&hide_border=true&area=true" width="100%"/>
+### ❄️ Snowflake Enthusiast | Data Engineering Learner
+#### 3.5+ Years Experience in ECM (OpenText VIM)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajgharpankar/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surajgharpankar28)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/surajgharpankar)
+
 </div>
 
-<!-- Tech Stack Section with Animated Icons -->
-## 🛠️ Tech Stack & Tools
+---
+
+## 👨‍💻 About Me
+
+I'm a **data-focused professional** with 3.5+ years in **Enterprise Content Management (OpenText VIM)**, now transitioning into the world of **Snowflake and Data Engineering**.
+
+- 💼 Experienced in **SAP-integrated document processing & enterprise workflow automation**
+- 🔄 Actively transitioning into **Snowflake & Data Engineering**
+- 📊 Strong foundation in **SQL, ETL concepts, and data handling**
+- 🚀 Passionate about how **scalable cloud data systems** power modern businesses
+- 🎯 Goal: Land a role as a **Snowflake Developer / Data Engineer**
+
+---
+
+## ❄️ Why Snowflake?
+
+After years in enterprise document systems, I'm moving toward **data warehousing and analytics** — where raw data becomes real insight.
+
+- Shifted focus from **business process automation → cloud-native data platforms**
+- Fascinated by **Snowflake's architecture** and how it handles large-scale data
+- Learning how to **build, optimize, and deliver** production-grade data solutions
+
+---
+
+## 🧠 What I'm Learning
+
+- ✅ Writing efficient **SQL queries** for analytics and reporting
+- ✅ **Snowflake architecture** — virtual warehouses, databases, schemas, roles
+- ✅ Data loading using **stages, COPY INTO, and Snowpipe**
+- ✅ **Query optimization** and performance tuning
+- ✅ Fundamentals of **ETL pipelines** and data orchestration
+
+---
+
+## 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
+**📊 Data Engineering (Current Focus)**
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" pointer-events: none; />
-      <br>JavaScript
+      <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+      <br>Snowflake
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" pointer-events: none;/>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" pointer-events: none;/>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" pointer-events: none;/>
-      <br>Tailwind
-    </td>
-    
-  </tr>
-  <tr>
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" pointer-events: none;/>
-      <br>BootStrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" pointer-events: none; />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" pointer-events: none; />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" pointer-events: none;/>
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48"/>
       <br>SQL
     </td>
-    
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+      <br>Python
+    </td>
   </tr>
 </table>
 
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects
+**🗂️ ECM & Enterprise (3.5+ Years Experience)**
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/OpenText-VIM-brightgreen?style=for-the-badge&logoColor=white"/>
+      <br>OpenText VIM
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Hyland-OnBase-0057A8?style=for-the-badge&logoColor=white"/>
+      <br>OnBase Hyland
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/OpenText-CoreCapture-E8392A?style=for-the-badge&logoColor=white"/>
+      <br>CoreCapture
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/OpenText-CoreArchive-1A73E8?style=for-the-badge&logoColor=white"/>
+      <br>CoreArchive
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+      <br>SAP
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://swadseva-ssg.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajgharpankar28&repo=Swadseva&theme=radical" alt="Swadseva">
-  </a>
-  <a href="https://cineverse-gpt.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajgharpankar28&repo=CineVerse-GPT&theme=radical" alt="CineVerse-GPT">
-  </a>
-</div>
+**🌐 Prior Frontend Exposure**
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
-<!-- Learning Section with Progress Bars -->
-## 🌱 Currently Learning
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-<!-- Social Links with Animated Badges -->
-## 🌍 Let's Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/surajgharpankar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/surajgharpankar28">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://x.com/surajgharpankar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
+## 🚀 Projects & Practice
 
-<!-- Snake Game Contribution Graph -->
-![](https://raw.githubusercontent.com/surajgharpankar28/surajgharpankar28/output/github-contribution-grid-snake.svg)
+- ❄️ Building a **Snowflake-based data warehouse** from scratch — warehouses, schemas, roles setup
+- 📊 Creating **SQL-driven analytics** use cases from raw datasets
+- 🔄 Experimenting with **ETL workflows** — staging, transformation, and loading pipelines
+- 🧩 Exploring integration between **Snowflake, SQL, and BI/reporting tools**
+
+---
+
+## 📈 Current Focus
+
+- 🔥 Deepening **Snowflake** skills through hands-on projects
+- 🏗️ Building **production-like data workflows**
+- 📝 Documenting learnings on **LinkedIn & GitHub**
+- 💡 Strengthening **SQL fundamentals** with real datasets
+
+---
